@@ -2,6 +2,7 @@
 Udacity: Intro to Machine Learning course - wrap up
 
 Author: ZUKHRIDDIN JULIEV
+
 Date: July 21, 2023
 
 This project is a general combination of application of all models covered during Intro to Machine Learning elective course.
