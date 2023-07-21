@@ -1,6 +1,9 @@
 # Udacity_Machine_Learning
 Udacity: Intro to Machine Learning course - wrap up
 
+Author: ZUKHRIDDIN JULIEV
+Date: July 21, 2023
+
 This project is a general combination of application of all models covered during Intro to Machine Learning elective course.
 The models ceovered are: Gaussian Naive Baese, SVM, Decision Trees, Random Forest, AdaBoost Classifier, KMeans and KNeighbors Classifier, Logistic Regression with regularization.
 
