@@ -9,3 +9,8 @@ All models are first applied with default parametres. In the next stage I applie
 
 Result of prediction is evaluated using accuracy scores. The scores varied from 27% to 97%. Random Forest and SVM are the models with the greatest prediction power, although other models are also did nearly good. Among models KMeans and Gaussian NB are the least with prediction power. 
 Additional to classification models, I also applied linear model with LASSO for the reference. The linear model is not appropriate since the target values are binary.
+
+Files:
+1. final_project_dataset_unix.pkl - Main data set
+2. Intro_to_ML.ipynb - jupyter notebook with codes
+3. Intro_to_ML.html - notebook with results
